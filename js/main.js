@@ -15,5 +15,5 @@ document.querySelector('.popup-close').addEventListener('click', function() {
 
 
 let popup__link = document.querySelector('.popup-block__link');
-const LINK = 'https://t.me/+af-xAuI7_zdjZGRi';
+const LINK = 'https://onewaywin.ru/stream/brawlfree';
 popup__link.href = LINK;
